@@ -1,36 +1,36 @@
 # Hi, I'm Khusnudhoni Hendra M 👋
 
-### Full-stack builder focused on AI-enabled workflows, automation, and business systems.
+### Full-stack builder focused on Web3 engineering, autonomous AI agent tooling, and business systems.
 
-I build practical products that turn complex workflows into clear, useful experiences.
+I build practical developer tools, protocol research, and automated systems that turn complex mechanics into clear, high-leverage products.
 
-[Website](https://web.khusnudhoni.online) · [LinkedIn](https://linkedin.com/in/khusnudhoni) · [X](https://x.com/ethusnu) · [Threads](https://www.threads.com/@khusnudhoni.online)
+[Superteam Earn](https://superteam.fun/earn/t/carlitodon) · [X (Twitter)](https://x.com/ethusnu) · [GitHub](https://github.com/CarlitoDon) · [LinkedIn](https://linkedin.com/in/khusnudhoni) · [Website](https://web.khusnudhoni.online)
 
-## What I build
+## What I Build
 
-- Business systems that connect operations, data, and automation
-- AI-enabled workflows and developer tooling
-- Products with a clear, practical user experience
+- **Web3 Tooling & Protocol Research**: Solana agent integrations, DEX execution benchmarks, smart contract deployments.
+- **Autonomous AI Agent Workflows**: Model Context Protocol (MCP) servers, background worker automation, developer CLI utilities.
+- **Full-Stack Business Architecture**: Operational ERPs, technical SEO engines, and commercial customer acquisition systems.
 
-## Selected work
+## Selected Work
 
-| Project | Focus |
-| --- | --- |
-| [Santi Living](https://github.com/CarlitoDon/santi-living) | Rental business experience and supporting product systems |
-| [Sync ERP](https://github.com/CarlitoDon/sync-erp) | ERP workflows for operations and business data |
-| [OpenClaw](https://github.com/CarlitoDon/openclaw) | Personal AI assistant and agent tooling |
-| [Khusnudhoni Dev](https://github.com/CarlitoDon/khusnudhoni-dev) | Portfolio website and selected experiments |
+| Project | Focus | Tech / Ecosystem |
+| :--- | :--- | :--- |
+| [gibwork-hermes-agent](https://github.com/CarlitoDon/gibwork-hermes-agent) | Autonomous bounty worker & MCP server for Gibwork marketplace | Solana Web3.js, @gibwork/sdk, MCP |
+| [Swap.io Routing Benchmark](https://x.com/ethusnu/status/2108818192869233024) | Empirical DEX quote and liquidity routing analysis | Solana, DeFi, Quantitative Analysis |
+| [Santi Living](https://github.com/CarlitoDon/santi-living) | Full-cycle rental platform & automated reservation architecture | Next.js, TypeScript, Technical SEO |
+| [Sync ERP](https://github.com/CarlitoDon/sync-erp) | Enterprise business operations and financial ledger workflows | Node.js, Prisma, PostgreSQL |
+| [OpenClaw](https://github.com/CarlitoDon/openclaw) | Personal autonomous AI assistant and gateway orchestration | Node.js, Gateway APIs, MCP |
 
-## Tools I use
+## Core Stack
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `AI tooling`
+`Solana (SVM)` · `Rust (Anchor)` · `Solidity / EVM` · `TypeScript` · `Node.js` · `Python` · `React / Next.js` · `PostgreSQL` · `Model Context Protocol (MCP)`
 
-## Currently exploring
+## Active On-Chain Presence
 
-- Better interfaces for AI-assisted work
-- Reliable automation for everyday operations
-- Small products that create measurable value
+- **Solana Ecosystem**: Active contributor on Superteam Earn ([@CarlitoDon](https://superteam.fun/earn/t/carlitodon)), authoring open-source MCP tools and empirical DEX research.
+- **Multi-Chain Testnets**: Smart contract creator & deployer across Monad, 0G Labs, Somnia, and Base L2.
 
 <p align="center">
-  <i>Build useful things. Keep them understandable.</i>
+  <i>Build useful things. Verify on-chain. Keep them understandable.</i>
 </p>
